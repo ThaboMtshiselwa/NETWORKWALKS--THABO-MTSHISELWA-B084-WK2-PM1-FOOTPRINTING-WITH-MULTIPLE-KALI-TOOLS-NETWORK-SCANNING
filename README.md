@@ -298,7 +298,7 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 **Date:** 14 November 2026
 
-
+https://lnkd.in/p/dj7Dn8dY
 
 
 
