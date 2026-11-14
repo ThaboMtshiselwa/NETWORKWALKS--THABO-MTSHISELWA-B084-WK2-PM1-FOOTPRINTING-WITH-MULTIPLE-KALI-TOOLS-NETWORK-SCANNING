@@ -252,4 +252,61 @@ I also learned that technical findings should be documented clearly. A good cybe
 
 Finally, I learned that reconnaissance and scanning must always be performed within an authorized scope. These activities were completed as part of the assigned educational cybersecurity lab.
 
+## 8. Evidence Collected
+1.	WHOIS Output - Domain Registration Details
+   <img width="940" height="564" alt="image" src="https://github.com/user-attachments/assets/9d87a722-6455-4d12-9b7b-a701b0444a4a" />
+   
+2.	WHOIS Output - Continued Registration Details
+   <img width="940" height="559" alt="image" src="https://github.com/user-attachments/assets/a4c8f722-2118-46c5-b80c-55bae1a4d6f5" />
+   
+3.	WHOIS Output - Registrant and Name Server Details
+   <img width="940" height="561" alt="image" src="https://github.com/user-attachments/assets/ab187375-af91-4530-890a-86cad4973f16" />
+   
+4.	WhatWeb Output - Technology Fingerprinting
+   <img width="940" height="449" alt="image" src="https://github.com/user-attachments/assets/66362996-8b32-4563-b426-347bb5fca5ed" />
+   
+5.	Nslookup Output - Domain to IP Resolution
+   <img width="940" height="449" alt="image" src="https://github.com/user-attachments/assets/eb7bdb95-e09c-42ec-b56d-f8c8f3279cca" />
+   
+6.	Curl Output - HTTP Response Headers
+   <img width="940" height="448" alt="image" src="https://github.com/user-attachments/assets/38d30d87-dd74-4bf3-9129-cb2b14b572a7" />
+   
+7.	Wafw00f Output - WAF Detection
+   <img width="940" height="448" alt="image" src="https://github.com/user-attachments/assets/bb2a4d78-1e9a-46e2-9aa7-e31de29bd855" />
+   
+8.	DNSRecon Output - DNS Record Enumeration
+   <img width="940" height="445" alt="image" src="https://github.com/user-attachments/assets/c6a457d0-77b8-4c1e-865a-2c04b0bd69f4" />
+   
+9.	Windows ipconfig Output - Local IP and Subnet
+    <img width="940" height="497" alt="image" src="https://github.com/user-attachments/assets/2f5b7fc0-1305-46de-b6a0-92bc4c557b7d" />
+    
+10.	Zenmap Ping Scan Results - Live Hosts
+    <img width="940" height="497" alt="image" src="https://github.com/user-attachments/assets/3949c628-3bc1-4314-9e3f-2f62a27842f5" />
+    
+11.	Zenmap Topology View - Network Map
+    <img width="940" height="498" alt="image" src="https://github.com/user-attachments/assets/c93935b3-f3f0-4bc2-9dcb-b902ea6ca35c" />
+    
+12.	Zenmap Topology View
+    [Network Topology Scanning.pdf](https://github.com/user-attachments/files/34852033/Network.Topology.Scanning.pdf)
+
+---
+
+-End-
+**Author:** Thabo Mtshiselwa
+
+**Program:** Cybersecurity program at Networkwalks | Week: 02 | Cybersecurity Professional B084
+
+**Date:** 14 November 2026
+
+
+
+
+
+
+
+
+
+
+
+
 
